@@ -1,0 +1,14 @@
+textarea.form-control {
+    width: 100% !important;
+}
+body{
+    font-style: normal;
+    color: white;
+}
+h5, p {
+    text-align: center;
+color: black;
+}
+.sobre h2,p {
+color: white;
+}
